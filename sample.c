@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int sum(int numOne_, int numTwo_)
+extern int sum(int numOne_, int numTwo_)
 {
 	return numOne_ + numTwo_;
 }
