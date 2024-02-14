@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <assert.h>
 
-#include "sample.c"
+#include "functions.c"
 
 int main(int argc, char* argv[])
 {

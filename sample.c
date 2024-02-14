@@ -1,10 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-extern int sum(int numOne_, int numTwo_)
-{
-	return numOne_ + numTwo_;
-}
+#include "functions.c"
 
 int main(int argc, char* argv[])
 {
